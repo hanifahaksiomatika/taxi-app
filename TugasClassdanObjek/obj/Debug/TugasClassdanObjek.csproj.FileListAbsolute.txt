@@ -1,0 +1,12 @@
+C:\Hani\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\bin\Debug\TugasClassdanObjek.exe.config
+C:\Hani\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\obj\Debug\TugasClassdanObjek.csprojResolveAssemblyReference.cache
+C:\Hani\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\bin\Debug\TugasClassdanObjek.exe
+C:\Hani\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\bin\Debug\TugasClassdanObjek.pdb
+C:\Hani\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\obj\Debug\TugasClassdanObjek.exe
+C:\Hani\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\obj\Debug\TugasClassdanObjek.pdb
+C:\Hani\kuliah\smt 2\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\bin\Debug\TugasClassdanObjek.exe.config
+C:\Hani\kuliah\smt 2\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\obj\Debug\TugasClassdanObjek.exe
+C:\Hani\kuliah\smt 2\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\obj\Debug\TugasClassdanObjek.pdb
+C:\Hani\kuliah\smt 2\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\bin\Debug\TugasClassdanObjek.exe
+C:\Hani\kuliah\smt 2\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\bin\Debug\TugasClassdanObjek.pdb
+C:\Hani\kuliah\smt 2\progamming\tugas3\TugasClassdanObjek\TugasClassdanObjek\obj\Debug\TugasClassdanObjek.csprojResolveAssemblyReference.cache
